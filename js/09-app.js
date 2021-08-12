@@ -7,6 +7,10 @@ const acciones={
     pausando: function(id){
         console.log(`Pausando la cancion con id ${id}.....`);
     }
+    ,
+    crearPlaylist: function(id){
+        console.log(`Creando una playlist ${id}.....`);
+    }
 
 }
 
